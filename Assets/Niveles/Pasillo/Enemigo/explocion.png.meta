@@ -1,0 +1,396 @@
+fileFormatVersion: 2
+guid: 8e2f5d165f6b10e4f994a7649fdb5ed4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7048692577599101898
+    second: EFec_0
+  - first:
+      213: 5600983105911939738
+    second: EFec_1
+  - first:
+      213: 8226522922474882414
+    second: EFec_2
+  - first:
+      213: 9088617763343195572
+    second: EFec_3
+  - first:
+      213: -6374093745824740901
+    second: EFec_4
+  - first:
+      213: -2109990540051245454
+    second: EFec_5
+  - first:
+      213: -7255758154921209470
+    second: EFec_6
+  - first:
+      213: 4035544511564339669
+    second: EFec_7
+  - first:
+      213: -7884295173696028517
+    second: EFec_8
+  - first:
+      213: -351259678895235705
+    second: EFec_9
+  - first:
+      213: 1478186126206349200
+    second: EFec_10
+  - first:
+      213: -5710669956460293176
+    second: EFec_11
+  - first:
+      213: 2975793862828544823
+    second: EFec_12
+  - first:
+      213: -4079737778787518106
+    second: EFec_13
+  - first:
+      213: -4194544054389361492
+    second: EFec_14
+  - first:
+      213: -1879886468040948834
+    second: EFec_15
+  - first:
+      213: 5947578326690885210
+    second: EFec_16
+  - first:
+      213: 6734676629595851719
+    second: EFec_17
+  - first:
+      213: 1069337860225166148
+    second: EFec_18
+  - first:
+      213: 2226897269593476403
+    second: EFec_19
+  - first:
+      213: 1381208763632612360
+    second: EFec_20
+  - first:
+      213: 4962398634963258658
+    second: EFec_21
+  - first:
+      213: 343859803463385021
+    second: EFec_22
+  - first:
+      213: 1819633855913678682
+    second: EFec_23
+  - first:
+      213: 7416262164810705120
+    second: EFec_24
+  - first:
+      213: -7055101388373175611
+    second: EFec_25
+  - first:
+      213: 8527881330693611119
+    second: EFec_26
+  - first:
+      213: -5288357262634335746
+    second: EFec_27
+  - first:
+      213: 4035125236239359489
+    second: EFec_28
+  - first:
+      213: 8157738655303688283
+    second: EFec_29
+  - first:
+      213: 276032378408133746
+    second: EFec_30
+  - first:
+      213: -5187541542695433762
+    second: EFec_31
+  - first:
+      213: -2024340202205256786
+    second: EFec_32
+  - first:
+      213: 7431973696513031212
+    second: EFec_33
+  - first:
+      213: -3204466874526640177
+    second: EFec_34
+  - first:
+      213: -6903175198999554037
+    second: EFec_35
+  - first:
+      213: -5240211143757354066
+    second: EFec_36
+  - first:
+      213: 3371998066506467973
+    second: EFec_37
+  - first:
+      213: -547836562833274187
+    second: EFec_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EFec_2
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 0
+        width: 625
+        height: 633
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6549b2130b7a2270800000000000000
+      internalID: 8226522922474882414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EFec_3
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 0
+        width: 455
+        height: 607
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd5063c3b1412e70800000000000000
+      internalID: 9088617763343195572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EFec_9
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 22
+        width: 561
+        height: 558
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d188fde23102bf0800000000000000
+      internalID: -351259678895235705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EFec_10
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 1
+        width: 367
+        height: 677
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09fa0743372938410800000000000000
+      internalID: 1478186126206349200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EFec_11
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 128
+        width: 332
+        height: 364
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c350b75eef9fb0b0800000000000000
+      internalID: -5710669956460293176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 87725a713d75cdb4a8344ab902c23b41
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      EFec_0: 7048692577599101898
+      EFec_1: 5600983105911939738
+      EFec_10: 1478186126206349200
+      EFec_11: -5710669956460293176
+      EFec_12: 2975793862828544823
+      EFec_13: -4079737778787518106
+      EFec_14: -4194544054389361492
+      EFec_15: -1879886468040948834
+      EFec_16: 5947578326690885210
+      EFec_17: 6734676629595851719
+      EFec_18: 1069337860225166148
+      EFec_19: 2226897269593476403
+      EFec_2: 8226522922474882414
+      EFec_20: 1381208763632612360
+      EFec_21: 4962398634963258658
+      EFec_22: 343859803463385021
+      EFec_23: 1819633855913678682
+      EFec_24: 7416262164810705120
+      EFec_25: -7055101388373175611
+      EFec_26: 8527881330693611119
+      EFec_27: -5288357262634335746
+      EFec_28: 4035125236239359489
+      EFec_29: 8157738655303688283
+      EFec_3: 9088617763343195572
+      EFec_30: 276032378408133746
+      EFec_31: -5187541542695433762
+      EFec_32: -2024340202205256786
+      EFec_33: 7431973696513031212
+      EFec_34: -3204466874526640177
+      EFec_35: -6903175198999554037
+      EFec_36: -5240211143757354066
+      EFec_37: 3371998066506467973
+      EFec_38: -547836562833274187
+      EFec_4: -6374093745824740901
+      EFec_5: -2109990540051245454
+      EFec_6: -7255758154921209470
+      EFec_7: 4035544511564339669
+      EFec_8: -7884295173696028517
+      EFec_9: -351259678895235705
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,810 @@
+fileFormatVersion: 2
+guid: 41c2737bb348d054abcaf746c392c7e6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1281693816554052126
+    second: MovimientosJugador_0
+  - first:
+      213: 1246987874739455750
+    second: MovimientosJugador_1
+  - first:
+      213: 1383327463948941346
+    second: MovimientosJugador_2
+  - first:
+      213: -8636918328209515671
+    second: MovimientosJugador_3
+  - first:
+      213: -3940121186371361780
+    second: MovimientosJugador_4
+  - first:
+      213: 8492059618374706644
+    second: MovimientosJugador_5
+  - first:
+      213: 1384744774728927563
+    second: MovimientosJugador_6
+  - first:
+      213: 8159533262116253816
+    second: MovimientosJugador_7
+  - first:
+      213: 2967722019034621405
+    second: MovimientosJugador_8
+  - first:
+      213: -5880551289433383580
+    second: MovimientosJugador_9
+  - first:
+      213: -7390419379341718590
+    second: MovimientosJugador_10
+  - first:
+      213: 338110692199546814
+    second: MovimientosJugador_11
+  - first:
+      213: 788923421741221013
+    second: MovimientosJugador_12
+  - first:
+      213: 333004620480265879
+    second: MovimientosJugador_13
+  - first:
+      213: 3315371850305797205
+    second: MovimientosJugador_14
+  - first:
+      213: 210857759169527101
+    second: MovimientosJugador_15
+  - first:
+      213: 235850753771140256
+    second: MovimientosJugador_16
+  - first:
+      213: -7844573728164697261
+    second: MovimientosJugador_17
+  - first:
+      213: -868393884051368874
+    second: MovimientosJugador_18
+  - first:
+      213: 3813884622513180374
+    second: MovimientosJugador_19
+  - first:
+      213: 5612662996322010464
+    second: MovimientosJugador_20
+  - first:
+      213: -3215007507191297533
+    second: MovimientosJugador_21
+  - first:
+      213: -5960523415745687848
+    second: MovimientosJugador_22
+  - first:
+      213: -4465783356450817180
+    second: MovimientosJugador_23
+  - first:
+      213: -6861203326207950105
+    second: MovimientosJugador_24
+  - first:
+      213: 2661888211587909879
+    second: MovimientosJugador_25
+  - first:
+      213: -9067398041869850999
+    second: MovimientosJugador_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 180
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MovimientosJugador_0
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1463
+        width: 212
+        height: 507
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e52b79b342863ee0800000000000000
+      internalID: -1281693816554052126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovimientosJugador_1
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1463
+        width: 215
+        height: 507
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60780118dd03e4110800000000000000
+      internalID: 1246987874739455750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovimientosJugador_2
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1463
+        width: 221
+        height: 507
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228f7b0dff0923310800000000000000
+      internalID: 1383327463948941346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovimientosJugador_3
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 1463
+        width: 215
+        height: 507
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96bd2057a80832880800000000000000
+      internalID: -8636918328209515671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovimientosJugador_4
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1463
+        width: 215
+        height: 507
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04285a18a0e159c0800000000000000
+      internalID: -3940121186371361780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovimientosJugador_5
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 1463
+        width: 224
+        height: 507
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5e9a4ea3bd9d570800000000000000
+      internalID: 8492059618374706644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovimientosJugador_6
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 1463
+        width: 219
+        height: 507
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49cb42390a973310800000000000000
+      internalID: 1384744774728927563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovimientosJugador_7
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1002
+        width: 238
+        height: 436
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8707c65554c7c3170800000000000000
+      internalID: 8159533262116253816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovimientosJugador_8
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1002
+        width: 259
+        height: 436
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5e9a0e3777f2920800000000000000
+      internalID: 2967722019034621405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovimientosJugador_9
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1002
+        width: 257
+        height: 436
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d9bdd32c5146ea0800000000000000
+      internalID: -5880551289433383580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovimientosJugador_10
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1002
+        width: 259
+        height: 435
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb8c290bb4ff6990800000000000000
+      internalID: -7390419379341718590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovimientosJugador_11
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1002
+        width: 258
+        height: 436
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebfb05712e531b400800000000000000
+      internalID: 338110692199546814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovimientosJugador_12
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 1002
+        width: 269
+        height: 436
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5940fd31ca1d2fa00800000000000000
+      internalID: 788923421741221013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovimientosJugador_13
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1002
+        width: 249
+        height: 436
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e3a4020f11f9400800000000000000
+      internalID: 333004620480265879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovimientosJugador_14
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 490
+        width: 239
+        height: 411
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c7ecbd121920e20800000000000000
+      internalID: 3315371850305797205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovimientosJugador_15
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 490
+        width: 249
+        height: 414
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d3f69c30e1de200800000000000000
+      internalID: 210857759169527101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovimientosJugador_16
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 490
+        width: 269
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4798ec209e54300800000000000000
+      internalID: 235850753771140256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovimientosJugador_17
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 520
+        width: 260
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ba16ea1c9722390800000000000000
+      internalID: -7844573728164697261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovimientosJugador_18
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 521
+        width: 268
+        height: 453
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6541ff70d58d2f3f0800000000000000
+      internalID: -868393884051368874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovimientosJugador_19
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 490
+        width: 249
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de093b7bd3ade430800000000000000
+      internalID: 3813884622513180374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovimientosJugador_20
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 490
+        width: 238
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065c0cb024f24ed40800000000000000
+      internalID: 5612662996322010464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovimientosJugador_21
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 19
+        width: 382
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a06afb4bff163d0800000000000000
+      internalID: -3215007507191297533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovimientosJugador_22
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 19
+        width: 392
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de84199887f74da0800000000000000
+      internalID: -5960523415745687848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovimientosJugador_23
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 18
+        width: 443
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46bb5e2b2b95602c0800000000000000
+      internalID: -4465783356450817180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovimientosJugador_25
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 19
+        width: 340
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f84f73a93de0f420800000000000000
+      internalID: 2661888211587909879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovimientosJugador_26
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 19
+        width: 279
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9866645a5812a2280800000000000000
+      internalID: -9067398041869850999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 62f71d3f4e29b974c959e045b1f4abbc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MovimientosJugador_0: -1281693816554052126
+      MovimientosJugador_1: 1246987874739455750
+      MovimientosJugador_10: -7390419379341718590
+      MovimientosJugador_11: 338110692199546814
+      MovimientosJugador_12: 788923421741221013
+      MovimientosJugador_13: 333004620480265879
+      MovimientosJugador_14: 3315371850305797205
+      MovimientosJugador_15: 210857759169527101
+      MovimientosJugador_16: 235850753771140256
+      MovimientosJugador_17: -7844573728164697261
+      MovimientosJugador_18: -868393884051368874
+      MovimientosJugador_19: 3813884622513180374
+      MovimientosJugador_2: 1383327463948941346
+      MovimientosJugador_20: 5612662996322010464
+      MovimientosJugador_21: -3215007507191297533
+      MovimientosJugador_22: -5960523415745687848
+      MovimientosJugador_23: -4465783356450817180
+      MovimientosJugador_24: -6861203326207950105
+      MovimientosJugador_25: 2661888211587909879
+      MovimientosJugador_26: -9067398041869850999
+      MovimientosJugador_3: -8636918328209515671
+      MovimientosJugador_4: -3940121186371361780
+      MovimientosJugador_5: 8492059618374706644
+      MovimientosJugador_6: 1384744774728927563
+      MovimientosJugador_7: 8159533262116253816
+      MovimientosJugador_8: 2967722019034621405
+      MovimientosJugador_9: -5880551289433383580
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
